@@ -1,0 +1,14 @@
+{
+  "name": "organize-archives",
+  "version": "1.0.0",
+  "description": "script that arranges my archives into specific folders depending on the file type",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "keywords": ["Directory", "Files"],
+  "author": "Samuel Santos",
+  "license": "ISC"
+}
