@@ -32,7 +32,7 @@ function checkExt(array) {
     // extensions to check
     const ext = {
         images: ["png", "jpg", "jpeg"],
-        deb_exe: ["deb", "exe", "appimage", "tar.xz", "zip"],
+        deb_exe: ["deb", "exe", "appimage", "tar.gz", "tar.xz", "zip"],
         docs: ["pdf", "xlsx", "txt"],
         others: ["flatpakref", "whatever"]
     };
